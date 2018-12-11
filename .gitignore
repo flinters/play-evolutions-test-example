@@ -1,0 +1,12 @@
+.DS_Store
+
+.idea/
+.idea_modules/
+.cache
+.history
+.lib/
+dist/*
+target/
+
+*.class
+*.log
